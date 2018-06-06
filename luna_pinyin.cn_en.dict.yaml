@@ -52,7 +52,6 @@ AZW	azw
 Bangla	bangla
 Baskerville	baskerville
 BBC	bbc
-Belkin	belkin
 BFR	bfr
 BigCaslon	bigcaslon
 BlackBerry	black berry
@@ -418,7 +417,6 @@ B 淋巴細胞	bi lin ba xi bao
 B 細胞	bi xi bao
 Baidu	bai du
 BBEdit	bb edit
-Belkin USB	belkin usb
 Better Rename	better rename
 BetterSnap Tool	better snap tool
 BetterTouchTool	better touch tool
@@ -600,8 +598,7 @@ iOS 10	ios
 iOS 10	ios x
 iOS 11	ios
 iOS 11	ios shi yi
-iOS 8	ios
-iOS 8	ios ba
+iOS 12	ios
 iOS 9	ios
 iOS 9	ios jiu
 iMac	imac
@@ -709,9 +706,9 @@ MacBook Air	macbook air
 MacBook Pro	macbook
 MacBook Pro	macbook pro
 macOS	macos
-macOS High Sierra	macos high sierra
-High Sierra	high sierra
-macOS Sierra	macos sierra
+macOS Mojave	macos
+macOS High Sierra	macos
+macOS Sierra	macos
 MacTips	mac tips
 Mactracker	mac tracker
 MacUpdate Desktop	mac update desktop
@@ -732,6 +729,7 @@ Mathtype	math type
 MarginNote	margin note
 Mercury Browser Pro	mercury browser pro
 Metapad	meta pad
+Memoji	me moji
 Micro SD	micro sd
 Micro-SIM	micro sim
 Microsoft	micro soft
@@ -871,6 +869,7 @@ SFMono	sf mono
 Shadowsocks	shadow socks
 SignPainter	sign painter
 SIM	sim
+eSIM	esim
 SIM 卡	sim ka
 SimHei	sim hei
 Simplenote	simple note
