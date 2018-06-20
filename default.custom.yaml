@@ -1,6 +1,6 @@
 patch:
   menu:
-    page_size: 9
+    page_size: 8
   schema_list:
   - schema: luna_pinyin_simp      # 朙月拼音 简化字
 #  - schema: luna_pinyin          # 朙月拼音
@@ -8,6 +8,7 @@ patch:
 #  - schema: double_pinyin        # 自然碼雙拼
   - schema: double_pinyin_flypy   # 小鹤雙拼
   - schema: wubi_pinyin           # 五笔拼音混合輸入
+
 
 #  ascii_composer/good_old_caps_lock: false # capslock 键切换英文并输出小写
 #  ascii_composer/switch_key:

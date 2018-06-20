@@ -21,9 +21,9 @@ patch:
       border_color: 0xE0B693                  # 边框色
       candidate_text_color: 0x000000          # 预选项文字颜色
       comment_text_color: 0x999999            # 拼音等提示文字颜色
-      hilited_back_color: 0xfff0e3            # 第一候选项背景背景色
-      hilited_candidate_text_color: 0x000000  # 第一候选项文字颜色
-      hilited_candidate_label_color: 0x999999 # 第一候选项编号颜色
+      hilited_back_color: 0xcc3300            # 第一候选项背景背景色
+      hilited_candidate_text_color: 0xFFFFFF  # 第一候选项文字颜色
+      hilited_candidate_label_color: 0xFFFFFF # 第一候选项编号颜色
       hilited_comment_text_color: 0x999999    # 注解文字高亮
       hilited_text_color: 0x999999            # 高亮拼音 (需要开启内嵌编码)
       name: "系统蓝／System Blue"
