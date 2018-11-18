@@ -8966,7 +8966,6 @@ use_preset_vocabulary: true
 呰	zi
 呱	gu	5%
 呱	gua	100%
-呱	wa	0%
 呲	ci
 呲	yi
 呲	zi
@@ -9102,9 +9101,7 @@ use_preset_vocabulary: true
 哉	zai
 哊	yu
 哋	di
-哌	gu
-哌	gua
-哌	wa
+哌	pai
 响	xiang
 哎	ai
 哏	gen
@@ -52174,9 +52171,8 @@ use_preset_vocabulary: true
 呫嚅	che ru
 呫囁	che zhe
 呱呱	gua gua
-呱呱	wa wa
-呱呱墜地	wa wa zhui di
-呱呱墮地	wa wa duo di
+呱呱墜地	gua gua zhui di
+呱呱墮地	gua gua duo di
 呲牙	ci ya
 呲牙裂嘴	ci ya lie zui
 味同嚼蠟	wei tong jue la

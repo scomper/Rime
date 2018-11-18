@@ -6,7 +6,7 @@ patch:
 #    color_scheme: clean_white
 #    horizontal: true
 #    inline_preedit: true
-#    candidate_format: "%c\u2005%@ \u2005"   # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
+#    candidate_format: "%c\u2005%@\u2005"   # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
 #    font_point: 16                          # 候选文字大小
 #    label_font_point: 14                    # 候选编号大小  
 #    corner_radius: 5                        # 候选条圆角
@@ -33,7 +33,7 @@ patch:
 
       horizontal: true                        # 水平排列
       inline_preedit: true                    # 单行显示，false双行显示
-      candidate_format: "%c\u2005%@ \u2005"   # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
+      candidate_format: "%c\u2005%@\u2005"   # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
       font_point: 16                          # 候选文字大小
       label_font_point: 14                    # 候选编号大小  
       corner_radius: 5                        # 候选条圆角
