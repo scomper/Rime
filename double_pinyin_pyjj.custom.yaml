@@ -1,4 +1,4 @@
-# double_pinyin_flypy.custom.yaml
+# double_pinyin_pyjj.custom.yaml
 #
 # 補靪功能：將自然碼雙拼的詞庫修改爲朙月拼音擴充詞庫
 #
@@ -16,13 +16,6 @@
 # 朙月拼音用戶請使用 luna_pinyin.custom.yaml。
 #
 #
-# 附雙拼方案與其對應的 id 一覽表：
-# 輸入方案	id
-# 自然碼雙拼	double_pinyin
-# 智能ABC雙拼	double_pinyin_abc
-# 小鶴雙拼	double_pinyin_flypy
-# 小鹳雙拼	double_pinyin_guan
-# MSPY雙拼	double_pinyin_mspy
 #
 
 patch:
