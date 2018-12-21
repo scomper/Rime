@@ -8966,6 +8966,7 @@ use_preset_vocabulary: true
 呰	zi
 呱	gu	5%
 呱	gua	100%
+呱	wa	0%
 呲	ci
 呲	yi
 呲	zi
@@ -30026,6 +30027,7 @@ use_preset_vocabulary: true
 隗	wei
 隘	ai
 隘	e
+隘	ga	0%
 隙	qi	0%
 隙	xi
 隚	tang
@@ -31679,6 +31681,7 @@ use_preset_vocabulary: true
 鰀	wan
 鰁	quan
 鰂	ze
+鰂	zei
 鰃	wei
 鰄	wei
 鰅	yu
@@ -31844,6 +31847,7 @@ use_preset_vocabulary: true
 鲕	er
 鲖	tong
 鲗	zei
+鲗	ze
 鲘	hou
 鲙	kuai
 鲚	ji
