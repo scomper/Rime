@@ -3,7 +3,7 @@
 具体的调教和配置阅读 [鼠须管调教笔记](https://scomper.me/gtd/-shu-xu-guan-de-diao-jiao-bi-ji)
 
 ----
-添加输入方案文件 https://github.com/rime/plum
+添加输入方案 [/plum/](https://github.com/rime/plum)
 
 安装包下载
 
