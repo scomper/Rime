@@ -19,8 +19,7 @@ switches:
   - name: zh_simp
     reset: 1
     states: [ 漢字, 汉字 ]
-  - name: ascii_punct
-    states: [ 。，, ．， ]
+
 
 engine:
   processors:

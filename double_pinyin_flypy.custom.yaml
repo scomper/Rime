@@ -36,8 +36,7 @@ patch:
     - name: zh_simp                      # (※1) 繁简转换
       reset: 1
       states: ["漢字", "汉字"]
-    - name: ascii_punct
-      states: ["。，", "．，"]
+
     - options: ["utf8", "gbk", "gb2312"] # (※2)字符集选单
       reset: 0                           #     默认 UTF
       states:

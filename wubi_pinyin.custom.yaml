@@ -11,8 +11,6 @@ patch:
     - name: simplification
       reset: 0
       states: ["汉字", "漢字"]
-    - name: ascii_punct
-      states: ["。，", "．，"]
     - name: show_emoji
       reset: 1
       states: [ "🈚️️\uFE0E", "🈶️️\uFE0F" ]

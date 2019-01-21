@@ -7,7 +7,6 @@ patch:
   - schema: luna_pinyin_fluency   # 语句流
 #  - schema: double_pinyin        # 自然碼雙拼
   - schema: double_pinyin_flypy   # 小鹤雙拼
-#  - schema: double_pinyin_pyjj   # 拼音加加双拼
   - schema: wubi_pinyin           # 五笔拼音混合輸入
 
 

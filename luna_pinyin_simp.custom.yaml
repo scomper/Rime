@@ -25,8 +25,7 @@ patch:
     - name: zh_simp                      # (※1) 繁简转换
       reset: 1
       states: ["漢字", "汉字"]
-    - name: ascii_punct
-      states: ["。，", "．，"]
+
     - options: ["utf8", "gbk", "gb2312"] # (※2)字符集选单
       reset: 0                           #     默认 UTF8
       states:
@@ -66,6 +65,8 @@ patch:
 
 #  載入朙月拼音擴充詞庫
   "translator/dictionary": luna_pinyin.extended
+#  拼写纠错
+  "translator/enable_correction": true
 
 #  符号快速输入和部分符号的快速上屏
   punctuator:

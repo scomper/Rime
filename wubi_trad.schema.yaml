@@ -25,8 +25,6 @@ switches:
   - name: zh_trad
     reset: 1
     states: [ 简体, 繁體 ]
-  - name: ascii_punct
-    states: [ 。，, ．， ]
 
 engine:
   processors:
