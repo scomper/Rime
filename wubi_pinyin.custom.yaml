@@ -16,7 +16,7 @@ patch:
       states: [ "🈚️️\uFE0E", "🈶️️\uFE0F" ]
 
   simplifier:
-      opencc_config: simp2trad.json  # 简入繁出
+      opencc_config: s2t.json  # 简入繁出
 
   engine/filters:
     - simplifier
