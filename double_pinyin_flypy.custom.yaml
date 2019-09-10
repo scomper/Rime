@@ -63,7 +63,7 @@ patch:
     tags: abc
 
 
-#  "speller/algebra/@before 1": xform/^([b-df-hj-np-tv-z])$/$1_/
+ "speller/algebra/@before 1": xform/^([b-df-hj-np-tv-z])$/$1_/
 #  "speller/algebra/@before 2": derive/([ei])n$/$1ng/            # 模糊拼音 en => eng, in => ing
 #  "speller/algebra/@before 3": derive/([ei])ng$/$1n/            # 模糊拼音 eng => en, ing => in
 
