@@ -88,8 +88,8 @@ Due	due
 DVD	dvd
 DVI	dvi
 EarPods	earpods
-EdgePoint	edge	point
-EdgeSwitch	edge	switch
+EdgePoint	edge point
+EdgeSwitch	edge switch
 eDRAM	edram
 EDXOR	edxor
 Emacs	emacs
@@ -587,6 +587,7 @@ Intellij IDEA	intellij idea
 Internet Explorer	internet explorer
 intoLive	into live
 iOS	ios
+Ion-X	ionx
 iMac	imac
 iMac Pro	imac
 IP 地址	ip di zhi
@@ -731,6 +732,8 @@ OneNote	one note
 OOP	oop
 OpenVPN	open vpn
 Oracle Database	oracle database
+LTPO OLED	oled
+OLED	oled
 OS X	osx
 OS X Server	osx
 OS X Server	osx server
