@@ -1710,6 +1710,7 @@ sort: by_weight
 愍	min	25
 敃	min	29
 憫	min	31
+忞	min	50
 悯	min	50
 岷	min	60
 皿	min	73
@@ -2196,6 +2197,7 @@ sort: by_weight
 玸	fu	0
 踾	fu	0
 郙	fu	0
+㳇	fu	1
 蜅	fu	1
 鰒	fu	1
 烰	fu	1
@@ -15061,6 +15063,7 @@ sort: by_weight
 卬	yang	6
 怏	yang	7
 暘	yang	8
+旸	yang	8
 蛘	yang	8
 烊	yang	12
 揚	yang	13
@@ -31928,6 +31931,7 @@ sort: by_weight
 户名	hu ming	122
 护法	hu fa	246
 互访	hu fang	141
+湖㳇	hu fu	1
 护肤	hu fu	496
 湖大	hu da	114
 蝴蝶	hu die	1859
