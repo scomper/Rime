@@ -46,8 +46,8 @@ patch:
       border_height: 6                          # 窗口边界高度，大于圆角半径才生效
       border_width: 6                           # 窗口边界宽度，大于圆角半径才生效
       border_color_width: 0
-      #font_face: "PingFangSC"                  # 候选词字体
-      font_face: "YaHei Monaco Hybird"          # 候选词字体
+      font_face: "PingFangSC"                  # 候选词字体
+      #font_face: "YaHei Monaco Hybird"          # 候选词字体
       font_point: 16                            # 候选字词大小
       label_font_point: 14                      # 候选编号大小
 
@@ -63,4 +63,5 @@ patch:
       hilited_candidate_label_color: 0xffffff   # 第一候选项编号颜色
       comment_text_color: 0xdedddd              # 拼音等提示文字颜色
 
-  "app_options/com.runningwithcrayons.Alfred-3/ascii_mode": true
+  "app_options/com.runningwithcrayons.Alfred/ascii_mode": true
+  "app_options/com.coteditor.CotEditor/ascii_mode": true

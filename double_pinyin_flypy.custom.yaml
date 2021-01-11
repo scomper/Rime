@@ -103,8 +103,8 @@ patch:
 
 
 # librime-lua 输入动态时间和日期
-  "engine/translators/@6": lua_translator@date_translator
-  "engine/translators/@7": lua_translator@time_translator
+  "engine/translators/+": lua_translator@date_translator
+  "engine/translators/+": lua_translator@time_translator
 
 # 双拼使用自定义词典 custom_phrase.txt
   custom_phrase:
@@ -114,11 +114,11 @@ patch:
     enable_completion: false
     enable_sentence: false
     initial_quality: 1
-  "engine/translators/@5": table_translator@custom_phrase
+  "engine/translators/+": table_translator@custom_phrase
 
 # 加載 easy_en 依賴
-  "schema/dependencies/@1": easy_en
-  "engine/translators/@4": table_translator@english  # 載入翻譯英文的碼表翻譯器，取名爲 english
+  "schema/dependencies/+": easy_en
+  "engine/translators/+": table_translator@english  # 載入翻譯英文的碼表翻譯器，取名爲 english
   english:  # english 翻譯器的設定項
     dictionary: easy_en
     spelling_hints: 9
