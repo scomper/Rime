@@ -39,8 +39,7 @@ patch:
 
       horizontal: true                          # 水平排列
       inline_preedit: true                      # 单行显示，false双行显示
-      candidate_format: "%c\u2005%@"          # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
-#      candidate_format: "%c\u2005%@ \u2005"     # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
+      candidate_format: "%c\u2005%@ \u2005"     # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
       corner_radius: 5                          # 候选条圆角
       hilited_corner_radius: 3                  # 高亮圆角
       border_height: 6                          # 窗口边界高度，大于圆角半径才生效
