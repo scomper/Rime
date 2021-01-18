@@ -87,9 +87,10 @@ patch:
   recognizer/patterns/punct: "^/([a-z]+|[0-9]0?)$"
 
 # 加載 easy_en 依賴
-  "schema/dependencies/@1": easy_en
+  "schema/dependencies/+": easy_en
 # 載入翻譯英文的碼表翻譯器，取名爲 english
-  "engine/translators/@4": table_translator@english
+  engine/translators/+: 
+    - table_translator@english
 # english 翻譯器的設定項
   english:
     dictionary: easy_en
@@ -100,8 +101,10 @@ patch:
 
 
 # librime-lua 输入动态时间和日期
-  "engine/translators/@5": lua_translator@date_translator
-  "engine/translators/@6": lua_translator@time_translator
+  engine/translators/+: 
+    - lua_translator@date_translator
+    - lua_translator@time_translator
+
   
 # 模糊拼音
   'speller/algebra':
