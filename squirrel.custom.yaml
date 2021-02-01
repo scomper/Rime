@@ -3,6 +3,7 @@ patch:
 
   #style/color_scheme: mojave_dark
   style/color_scheme: system_blue             # 方案命名，不能有空格
+  style/color_scheme_dark: mritd_dark
   preset_color_schemes:
     system_blue:
       author: "scomper <scomper@gmail.com>"   # 作者信息
@@ -18,19 +19,18 @@ patch:
       name: "系统蓝／System Blue"
       text_color: 0x424242                    # 拼音行文字颜色
       label_color: 0x999999                   # 预选栏编号颜色
-  
       horizontal: true                        # 水平排列
       inline_preedit: true                    # 单行显示，false双行显示
-      candidate_format: "%c\u2005%@"   # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
+      candidate_format: "%c\u2005%@ \u2005"   # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间的。
       font_face: "PingFangSC"# 候选词编号字体
       font_point: 16                          # 候选文字大小
       label_font_point: 14                    # 候选编号大小
-#      label_font_face: "SFCompactText-Regular"# 候选词编号字体
+      label_font_face: "SFCompactText-Regular"# 候选词编号字体
       corner_radius: 6                        # 候选条圆角
       hilited_corner_radius: 4                # 高亮圆角
       border_height: 4                        # 窗口边界高度，大于圆角半径才生效
       border_width: 4                         # 窗口边界宽度，大于圆角半径才生效
-      border_color_width: 0
+    #      border_color_width: 0
 
     mritd_dark:
       # https://mritd.me/2019/03/23/oh-my-rime/
