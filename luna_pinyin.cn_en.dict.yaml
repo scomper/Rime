@@ -573,7 +573,8 @@ HTC Vive	htc
 HTML5	html wu
 Hyper Potion	hyper potion
 iA Writer	ia writer
-iBooks Author	ibooks author
+iBooks Author	ibooks
+iBooks	ibooks
 iCloud	icloud
 iCloud Drive	icloud drive
 Icons8 App	icons ba
@@ -605,7 +606,6 @@ iPad mini	ipad
 iPad Pro	ipad
 iPadOS	ipad
 iPhone	iphone
-iPhone X	iphone ten
 iPod	ipod
 iPod classic	ipod
 iPod mini	ipod
@@ -730,9 +730,9 @@ Oculus VR	oculus
 OfficeSuite	office suite
 Olympics	olymipcs
 OmmWriter	omm writer
-OmniFocus	omni focus
-OmniGraffle	omni graffle
-OmniOutliner	omni outliner
+OmniFocus	omnif
+OmniGraffle	omnig
+OmniOutliner	omnio
 OmniPlan	omni plan
 OneDrive	one drive
 OneNote	one note
@@ -766,7 +766,6 @@ Pokémon GO	pokemon
 Pokémon GO	pokemon go
 Pokétop	poketop
 PopClip	pop clip
-POS 機	pos ji
 POWER UP	power up
 PowerBeam	power beam
 PowerPack	power pack
@@ -780,16 +779,6 @@ PTSerif	pt serif
 Public Beta	public beta
 PyCharm	pycharm
 PDF Expert	pdf expert
-Q 幣	qq bi
-QCon	qcon
-QNAP NAS	qnap nas
-QQ 號	qq hao
-QQ 號碼	qq hao ma
-QQ 會員	qq hui yuan
-QQ 空間	qq kong jian
-QQ 羣	qq qun
-QQ 旋風	qq xuan feng
-QQ 郵箱	qq you xiang
 QuickTime Player	quick time player
 RAM	ram
 Razz Berry	razz berry

@@ -27,11 +27,11 @@ local function translator(input, seg)
             - text:  候选项的文本
             - comment: 候选项的注释
        --]]
-      yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日"), ""))
+      yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d"), ""))
       --[[ 用 `yield` 再产生一个候选项
            最终的效果是输入法候选框中出现两个格式不同的当前日期的候选项。
       --]]
-      yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d"), ""))
+      yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日"), ""))
    end
 end
 
