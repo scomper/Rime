@@ -2,7 +2,7 @@
 # encoding: utf-8
 #
 # Luna Pinyin Extended Dictionary(Chinese&English) - 明月拼音擴充詞庫（含西文的詞彙）
-#   瑾昀 <cokunhui@gmail.com>
+#	瑾昀 <cokunhui@gmail.com>
 # 部署位置：
 # ~/.config/ibus/rime  (Linux)
 # ~/Library/Rime  (Mac OS)
@@ -664,11 +664,9 @@ Mac mini	mac mini
 Mac Pro	mac pro
 Mac Rumors	mac rumors
 MacAppDeals	mac app deals
-MacBook	mac book
 MacBook Air	macbook
 MacBook Pro	macbook
 macOS	macos
-macOS High Sierra	macos
 macOS Monterey	macos
 MacTips	mac tips
 Mactracker	mac tracker
