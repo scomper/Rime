@@ -2125,6 +2125,7 @@ sort: by_weight
 裶	fei	1
 蜰	fei	1
 廃	fei	1
+朏	fei	2
 騑	fei	3
 厞	fei	3
 暃	fei	3
@@ -2674,6 +2675,7 @@ sort: by_weight
 梑	di	0
 逓	di	0
 鸐	di	0
+頔	di	1
 藡	di	1
 馰	di	1
 鏑	di	1
@@ -13244,6 +13246,7 @@ sort: by_weight
 瀜	rong	1
 絨	rong	1
 媶	rong	2
+镕	rong	4
 鎔	rong	3
 傇	rong	3
 嫆	rong	4
@@ -14718,6 +14721,7 @@ sort: by_weight
 沄	yun	6
 勻	yun	6
 煇	yun	7
+赟	yun	10
 贇	yun	10
 氳	yun	10
 纭	yun	13
