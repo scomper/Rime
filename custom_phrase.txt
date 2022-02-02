@@ -36,5 +36,5 @@ GBK	gbk
 UTF-8	utfba
 scomper@gmail.com	smail
 scomper	scomper
-macOS High Sierra	macoshs
+SeaTable	hdbn
 
