@@ -28,10 +28,17 @@ HorizonZeroDawn	hzd	4
 又双叒叕	yyy
 http://rime.im/	rime	1
 Rime	rime	3
-⌘	cmd
-⌃	ctl
-⌥	opt
-⇧	shift
+⌘	cmd Command
+⌃	ctl Control
+⌥	opt Option
+⇧	shift Shift
+⇥	tab Tab
+⇪	caps CapsLock
+⏎	return Return
+␣	space Space
+⌫	del Del
+⎋	esc Escape 
+⏏	eject Eject
 GBK	gbk
 UTF-8	utfba
 scomper@gmail.com	smail

@@ -81,6 +81,230 @@ use_preset_vocabulary: true
 䲜	yu yu yu yu
 䨻	lei lei lei
 
+厂部	chang bu
+偏厂	pian chang
+偏厂儿	pian chang er
+厂字头	chang zi tou
+反字框	fan zi kuang
+匚部	fang bu
+区字框	qu zi kuang
+三框	san kuang
+三框儿	san kuang er
+刀部	dao bu
+立刀旁	li dao pang
+立刀	li dao
+冂部	tong bu
+同字框	tong zi kuang
+单人旁	dan ren pang
+人字旁	ren zi pang
+单立人	dan li ren
+斜刀头	xie dao tou
+负字头	fu zi tou
+包字头	bao zi tou
+风字头	feng zi tou
+凤字框	feng zi kuang
+几字头	ji zi tou
+几字底	ji zi di
+亠部	wen bu
+京字头	jing zi tou
+冫部	liang bu
+两点水	liang dian shui
+冰字旁	bing zi pang
+八部	ba bu
+倒八	dao ba
+兰字头	lan zi tou
+八字头	ba zi tou
+八字底	ba zi di
+倒八字	dao ba zi
+冖部	tu bu
+秃宝盖	tu bao gai
+言部	yan bu
+言字旁	yan zi pang
+凶字框	xiong zi kuang
+凵部	qian bu
+卩部	dan bu
+耳刀旁	er dao pang
+单耳旁	dan er pang
+单耳刀	dan er dao
+单耳朵	dan er duo
+邑部	yi bu
+阜部	fu bu
+双耳旁	shuang er pang
+双耳刀	shuang er dao
+左耳刀	zuo er dao
+右耳刀	you er dao
+厶部	si bu
+私字旁	si zi pang
+廴部	yin bu
+建之旁	jian zhi pang
+仓字底	cang zi di
+土部	tu bu
+提土旁	ti tu pang
+土字底	tu zi di
+土字旁	tu zi pang
+手部	shou bu
+提手旁	ti shou pang
+艸部	cao bu
+草头	cao tou
+草字头	cao zi tou
+廾部	gong bu
+弄字底	nong zi di
+尢部	you bu
+尤字旁	you zi pang
+国字框	guo zi kuang
+大口框	da kou kuang
+方框	fang kuang
+双人旁	shuang ren pang
+双立人	shuang li ren
+彳部	chi bu
+彡部	san bu
+三撇	san pie
+三撇儿	san pie er
+犬部	quan bu
+反犬旁	fan quan pang
+夂部	zhi bu
+折文	zhe wen
+折文儿	zhe wen er
+折文旁	zhe wen pang
+冬字头	dong zi tou
+食部	shi bu
+食字旁	shi zi pang
+爿部	pan bu
+将字旁	jiang zi pang
+广部	guang bu
+广字旁	guang zi pang
+水部	shui bu
+三点水	san dian shui
+心部	xin bu
+竖心	shu xin
+竖心旁	shu xin pang
+宀部	bao bu
+宝盖	bao gai
+宝盖儿	bao gai er
+宝盖头	bao gai tou
+宝盖儿头	bao gai er tou
+辵部	chuo bu
+走之	zou zhi
+走之旁	zou zhi pang
+彐部	ji bu
+雪字底	xue zi di
+横山	heng shan
+子部	zi bu
+子字旁	zi zi pang
+糸部	mi bu
+绞丝	jiao si
+绞丝旁	jiao si pang
+绞丝儿旁	jiao si er pang
+乱绞丝	luan jiao si
+乱绞丝儿	luan jiao si er
+绞丝底	jiao si di
+幺部	yao bu
+幼字旁	you zi pang
+巛部	chuan bu
+三拐	san guai
+三拐儿	san guai er
+玉部	yu bu
+王字旁	wang zi pang
+斜玉旁	xie yu pang
+老字头	lao zi tou
+木字旁	mu zi pang
+牛字旁	niu zi pang
+车字旁	che zi pang
+反文	fan wen
+反文旁	fan wen pang
+爪字头	zhao zi tou
+火字旁	huo zi pang
+四点底	si dian di
+示字旁	shi zi pang
+示补	shi bu
+示补儿	shi bu er
+春字头	chun zi tou
+四字头	si zi tou
+扁四头	bian si tou
+皿字底	min zi di
+皿墩	min dun
+皿墩儿	min dun er
+金字旁	jin zi pang
+禾木旁	he mu pang
+病字头	bing zi tou
+病字旁	bing zi pang
+病旁	bing pang
+衣字旁	yi zi pang
+衣补	yi bu
+衣补儿	yi bu er
+登字头	deng zi tou
+西字头	xi zi tou
+虎字头	hu zi tou
+竹字头	zhu zi tou
+羊字旁	yang zi pang
+羊字头	yang zi tou
+卷字头	juan zi tou
+米字旁	mi zi pang
+足字旁	zu zi pang
+髦字头	mao zi tou
+石字头	shi zi tou
+中州韵	zhong zhou yun
+鼠须管	shu xu guan
+小狼毫	xiao lang hao
+平方米	ping fang mi
+平方厘米	ping fang li mi
+度	du
+摄氏度	she shi du
+华氏度	hua shi du
+点	dian
+间隔号	jian ge hao
+连接号	lian jie hao
+连接符	lian jie fu
+反问号	fan wen hao
+约等于	yue deng yu
+约等	yue deng
+约等号	yue deng hao
+不等于	bu deng yu
+大于	da yu
+大于号	da yu hao
+小于	xiao yu
+小于号	xiao yu hao
+小于等于	xiao yu deng yu
+小于等于号	xiao yu deng yu hao
+大于等于	da yu deng yu
+大于等于号	da yu deng yu hao
+根号	gen hao
+正负号	zheng fu hao
+百分号	bai fen hao
+千分号	qian fen hao
+万分号	wan fen hao
+万字符	wan zi fu
+无穷大	wu qiong da
+无穷大符号	wu qiong da fu hao
+正无穷	zheng wu qiong
+负无穷	fu wu qiong
+圆周率	yuan zhou lv
+二百	er bai
+英寸	ying cun
+毫秒	hao miao
+微秒	wei miao
+纳秒	na miao
+Apple
+Cmd
+Command
+Ctrl
+Control
+Opt
+Option
+Shift
+Tab
+Caps
+CapsLock
+Return
+Enter
+Space
+Backspace
+Del
+Delete
+Esc
+Eject
+Rime
+
 白衣天使	bai yi tian shi
 傳染	chuan ran
 封路	feng lu
