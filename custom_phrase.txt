@@ -64,7 +64,6 @@ AnyDrop	anydrop
 App Clips	app clips
 AOL	aol
 APFS	apfs
-APFS	ge shi hua
 API	api
 Arduino	arduino
 Arial	arial
@@ -83,7 +82,7 @@ Baskerville	baskerville
 BBC	bbc
 BFR	bfr
 BigCaslon	bigcaslon
-Big Sur	big sur
+Big Sur	bigsur
 Bitcron	bitcron
 BlackBerry	black berry
 BMP	bmp
@@ -154,8 +153,8 @@ GPU	gpu
 Graffle	graffle
 GRE	gre
 GSM	gsm
-GaN	g an
-GUI	g u i
+GaN	gan
+GUI	gui
 Gujarati	gujarati
 Gurmukhi	gurmukhi
 Hangouts	hangouts
@@ -335,7 +334,7 @@ Trattatello	trattatello
 Trello	trello
 TTL	ttl
 Tumblr	tumblr
-TUN	t u n
+TUN	tun
 Twitter	twitter
 Typora	typora
 UAP	uap
@@ -398,12 +397,6 @@ AirPlay	air play
 AirPods	air pods
 AirPods Pro	air pods
 AirPort	air port
-AirPort Express	air port
-AirPort Extreme	air port
-AirPower	air power
-AirPrint	air print
-airPrism	air prism
-AirServer	air server
 Al Nile	alnile
 Al Tarikh	altarikh
 Alphabet	alpha bet
@@ -416,9 +409,6 @@ Andale Mono	andale mono
 Animoji	ani moji
 Ansible	an sible
 App Store	app store
-AppFridays	app fridays
-Apple Beta	apple beta
-Apple Chancery	apple chancery
 Apple Configurator	apple configurator
 Apple Developer	apple developer
 Apple EarPods	apple earpods
@@ -433,38 +423,29 @@ Apple Remote	apple Remote
 Apple Store	apple store
 Apple TV	apple tv
 Apple Watch	apple watch
-AppleCare	apple care
 AppleCare+	apple care
-AppleScript	apple script
-AppleTalk	apple talk
 AppShopper	app shopper
 AptBackup	apt backup
-Arial Black	arial black
-Arial Narrow	arial narrow
-Arial Rounded	arial rounded
-Arial Unicode	arial unicode
 ATM 機	atm ji
 AutoCAD	auto cad
-B 淋巴細胞	bi lin ba xi bao
-B 細胞	bi xi bao
-Baidu	bai du
-BBEdit	bb edit
+Baidu	baidu
+BBEdit	bbedit
 Better Rename	better rename
 BetterTouchTool	btt
 BetterZip	better zip
 Beyond Compare	beyond compare
-Bitcron	bit cron
+Bitcron	bitcron
 BitDefender	bit defender
 BitLocker	bit locker
-Blizzard	bli zzard
+Blizzard	bliz
 Bluetooth	blue tooth
 BoldItalic	bold italic
 Bose soundlink	bose soundlink
 Bradley Hand	bradley hand
 Brush Script	brush script
 BundleHunt	bundle hunt
-Bypass	by pass
-Byword	by word
+Bypass	bypass
+Byword	byword
 C++	cpp
 CallMaster	call master
 CarPlay	car play
@@ -488,7 +469,7 @@ ColorSchemer	color schemer
 ColorSnapper	color snapper
 Combat Power	combat power
 Comic Sans MS	comic sans ms
-ConTEXT	con text
+ConTEXT	context
 Control Center	control center
 CorelDRAW	corel draw
 Cornerstone	corner stone
@@ -513,7 +494,6 @@ DiskMaker	disk maker
 DisplayPort	display port
 Diwan Kufi	diwan ku fi
 Diwan Thuluth	diwan thuluth
-DJI	da jiang
 DJI	dji
 DNA	dna
 Double Tour	double tour
@@ -533,14 +513,13 @@ Emmet	emmet
 Emoji	emoji
 EuphemiaCAS	euphemia cas
 EV-DO	evdo
-ExFAT	ge shi hua
+ExFAT	fat
 ExtraLight	extra light
 Face ID	face id
 Facebook	face book
 FaceTime	face time
-Fantastical	fan tastical
+Fantastical	fantas
 FAT32	fat
-FAT32	ge shi hua
 FIFA	fifa
 FileBrowser	file browser
 FileVault	file vault
@@ -572,25 +551,17 @@ Gif Brewery	gif brewery
 GitHub Gist	github
 Gitter	gitter
 GNU	gnu
-Go2Shell	go er
-Go2Shell	go tu
-GoagentX	go agentx
 GOM Player	gom player
 GoodReader	good reader
-Google	gu ge
 Google Chrome	google
 Google Docs	google docs
 Google Drive	google drive
-Google Keep	google keep
 Google Maps	google maps
 Google Music	google music
 Google Play	google Play
-Google Slides	google slides
 Great Ball	great ball
 GSW	gsw
-HanaMin	hana min
 Handoff	hang off
-HE-AAC	he aac
 HeavyItalic	heavy italic
 Hermès	hermes
 HEVC	hevc
@@ -602,14 +573,13 @@ HomePod	home pod
 HTC Vive	htc
 HTML5	html wu
 Hyper Potion	hyper potion
-iA Writer	ia writer
+iA Writer	iaw
 iBooks Author	ibooks
 iBooks	ibooks
 iCloud	icloud
 iCloud Drive	icloud drive
-Icons8 App	icons ba
 IDE	ide
-IKEv2	ikev er
+IKEv2	ikev
 ImageOptim	image optim
 IMDb	imdb
 InaiMathi	inai mathi
@@ -628,8 +598,6 @@ Ion-X	ionx
 iMac	imac
 iMac Pro	imac
 IP 地址	ip di zhi
-IP 電話	ip dian hua
-IP 卡	ip ka
 iPad	ipad
 iPad Air	ipad
 iPad mini	ipad
@@ -642,7 +610,7 @@ iPod mini	ipod
 iPod nano	ipod
 iPod shuffle	ipod
 iPod touch	ipod
-IPTV	ip tv
+IPTV	iptv
 IPv4	ipv
 IPv6	ipv
 iStat Menus	istat menus
@@ -657,11 +625,10 @@ J2EE	jtee
 Jailbreak	jail break
 JavaScript	java script
 Jay	jay
-JetBrains	jet brains
-JS Blocker	js blocker
-JSLint	js lint
+JetBrains	jetb
+JS Blocker	jsb
+JSLint	jslint
 Just Mobile	just mobile
-K 歌	kei ge
 Kaleidoscope	kaleido scope
 Karabiner	kara biner
 Keyboard Maestro	keyboard maestro
@@ -672,7 +639,6 @@ Kindle Unlimited	kindle
 Kindle Voyage	kindle
 Klib	klib
 L2TP	lrtp
-LaTeXian	la te xian
 Launch Center Pro	lcp
 Launchpad	launch pad
 LibreOffice	libre office
@@ -686,20 +652,17 @@ Local Client	local client
 LockScreen	lock screen
 Lucky Egg	lucky egg
 Lure Module	lure module
-MAC 地址	mac di zhi
+MAC 地址	mac
 Mac App Store	mas
 Mac mini	mac mini
 Mac Pro	mac pro
 Mac Rumors	mac rumors
-MacAppDeals	mac app deals
 MacBook Air	macbook
 MacBook Pro	macbook
 macOS	macos
 macOS Ventura	macos
 macOS Monterey	macos
 MacTips	mac tips
-Mactracker	mac tracker
-Mad Catz	mad catz
 Magic Keyboard	magic keyboard
 Magic Mouse	magic mouse
 Magic Trackpad	magic trackpad
@@ -707,13 +670,11 @@ MagSafe	mag safe
 Mailbox	mail box
 MailTags	mail tags
 MAMP PRO	mamp pro
-MarkDown	mark down
-MarkEditor	mark editor
-MarsEdit	mars edit
+MarkDown	markd
 Mathtype	math type
 MarginNote	margin note
 Metapad	meta pad
-Memoji	me moji
+Memoji	memoji
 Micro SD	micro sd
 Micro-SIM	micro sim
 Microsoft	micro soft
@@ -738,17 +699,15 @@ NeoeEdit	neoe edit
 NetBIOS	net bios
 Netflix	net flix
 Niantic	niantic
-Nikon	ni kang
-Nikon	ni kon
+Nikon	nikon
 Notability	not ability
 Notepad	note pad
 Notepad++	note pad
 NoteTab	note tab
 nPlayer	nplayer
-NTFS	ge shi hua
-NuPro	nu pro
-nvALT	nv alt
-Nvidia	nv idia
+NuPro	nupro
+nvALT	nvalt
+Nvidia	nvidia
 Objective-C	objc
 Objective-C	objective
 Oculus Rift	oculus
@@ -759,7 +718,7 @@ OmmWriter	omm writer
 OmniFocus	omnif
 OmniGraffle	omnig
 OmniOutliner	omnio
-OmniPlan	omni plan
+OmniPlan	omnip
 OneDrive	one drive
 OneNote	one note
 OpenVPN	open vpn
@@ -771,9 +730,7 @@ OS X Server	osx
 OS X Server	osx server
 Outlook Express	outlook express
 PaintCode	paint code
-Parallels Desktop	parallels desktop
 Parallels Desktop	pd
-PC-cillin	pc cillin
 Perl	perl
 Photo Booth	photo booth
 PhotoDesk	photo desk
@@ -789,19 +746,13 @@ Plurk	plurk
 Poké Ball	poke ball
 Pokémon	pokemon
 Pokémon GO	pokemon
-Pokémon GO	pokemon go
 Pokétop	poketop
 PopClip	pop clip
 POWER UP	power up
-PowerBeam	power beam
-PowerPack	power pack
 PowerPoint	power point
 PragmataPro	pragmata pro
 PRAM	pram
 Proxy Group	proxy group
-PTMono	pt mono
-PTSans	pt sans
-PTSerif	pt serif
 Public Beta	public beta
 PyCharm	pycharm
 PDF Expert	pdf expert
@@ -817,7 +768,6 @@ RescueTime	rescue time
 Resilio Sync	resilio sync
 RexEdit	rex edit
 RightFont	right font
-Rime	zhong zhou yun
 RobotoSlab	roboto slab
 RocketDish	rocket dish
 ROM	rom
@@ -826,7 +776,7 @@ RubyMine	ruby mine
 Runtastic Pro	run tastic pro
 Sabrent USB	sabrent usb
 Safari	safari
-Safari View Controller	safari view controller
+Safari View Controller	svc
 SaneDesk	sane desk
 SAP	sap
 Sauce Code Pro	sauce code pro
@@ -837,16 +787,13 @@ ScreenFlow	screen flow
 Screens VNC	screens vnc
 SecureCRT	secure crt
 Semibold	semi bold
-SFMono	sf mono
 Shadowsocks	ss
 SignPainter	sign painter
 SIM	sim
 eSIM	esim
 SIM 卡	sim ka
-SimHei	sim hei
 Simplenote	simple note
 SimpleText	simple text
-SimSun	sim sun
 Single Tour	single tour
 Siri	siri
 Siri Remote	siri remote
@@ -861,8 +808,6 @@ SnellRoundhand	snell round hand
 Softimage	soft image
 Software Development Kit	sdk
 Solar Walk	solar walk
-Source Insight	source insight
-SourceHanSans	source han sans
 SourceTree	source tree
 Sparkbox	spark box
 Specialist	specia list
@@ -871,8 +816,6 @@ Splashtop	splash top
 Split View	split view
 Spotlight	spot light
 SQL Server	sql server
-Squirrel	shu xu guan
-SSLEdge	ssl edge
 StackSocial	stack social
 Statistics	stati stics
 Steve Jobs Theater	steve jobs theater
@@ -881,47 +824,41 @@ Sublime Text	sublime text
 Super Potion	super potion
 SuperClarendon	super clarendon
 Surge	surge
-Surge iOS	surge
 Surge iOS	surge ios
-Surge Mac	surge
 Surge Mac	surge mac
 Swift Playgrounds	swift playgrounds
 SwipeSelection	swipe selection
-Symbian	sym bian
-Symbol	sym bol
+Symbian	symbian
+Symbol	symbol
 Sync for Firefox	sync for firefox
 Synology NAS	synology nas
-T 恤	ti xu
-T 恤衫	ti xu shan
 Taobao	tao bao
 Taptic Engine	taptic engine
 TCP/IP	tcp ip
 TeamViewer	team viewer
 TechWeb	tech web
 TED	ted
-TeeVee	tee vee
+TeeVee	teevee
 Telegram	telegram
 Tencent	tencent
 TestFlight	test flight
-Texshop	tex shop
+Texshop	texshop
 Textastic	text astic
 TextExpander	text expander
 TextGrabber	text grabber
 TextMate	text mate
-TextPad	text pad
+TextPad	textpad
 TextWrangler	text wrangler
-The SemWare Editor	the semware editor
 The Unarchiver	the unarchiver
 Thunderbird	thunder bird
 Thunderbolt	thunder bolt
 Thunderbolt Bridge	thunderbolt bridge
 Thunderbolt Ethernet	thunderbolt ethernet
-Time Capsule	time capsule
-Time Machine	time machine
-Times New Roman	times new roman
+Time Capsule	timec
+Time Machine	timem
 TinkerTool	tinker tool
 Touch ID	touch id
-TP-LINK	tp link
+TP-LINK	tplink
 Trebuchet MS	trebuchet ms
 True Tone	true tone
 Tupac	tupac
@@ -931,7 +868,7 @@ tvOS	tvos
 Tweetbot	tweet bot
 Twist Plus	twist plus
 Ubuntu	ubuntu
-UIM 卡	uim ka
+UIM 卡	uim
 Ultra Ball	ultra ball
 UltraEdit	ultra edit
 Ultralight	ultra light
@@ -942,7 +879,6 @@ URL Scheme	url scheme
 USB-A	usb a
 USB-C	usb c
 USIM 卡	usim ka
-UUcall	uu call
 V2EX	vtex
 Vimeo	vimeo
 VirtualBox	virtual box
@@ -950,24 +886,19 @@ VPS	vps
 Warcraft	warcraft
 Warriors	warriors
 watchOS	watch os
-WeChat	we chat
-Weibo	wei bo
+WeChat	wechat
+Weibo	weibo
 WebRTC	web rtc
 WhatsApp	whats app
 Whispersync	whisper sync
-Wi-Fi	wai fai
-Wi-Fi	wi fi
+Wi-Fi	wifi
 WiFi	wifi
 WiFi Explorer	wifi explorer
 WiFi Scanner	wifi scanner
 Wikipedia	wiki
 Window Tidy	window tidy
 Windows Live Mail	windows live
-Windows Live Mail	windows live mail
-Windows Live Messenger	windows live
 Windows Live Messenger	windows live messenger
-Windows Mobile	windows mobile
-Windows Phone	windows phone
 Wireless Keyboard	wireless keyboard
 Withings Thermo	withings thermo
 WLAN + Cellular	wlan jia
@@ -981,7 +912,6 @@ World Wide Web	www
 WPA2	wpa
 WPS Office	wps office
 Writer Pro	writer pro
-WWYD	wwyd
 X-Ray	xray
 Xbox One	xbox
 Xcode	xcode
@@ -989,16 +919,14 @@ XcodeDigits	xcode digits
 XtraFinder	xtra finder
 Youku	you ku
 YouTube	you tube
-YouTube	yo tube
 Yummy FTP	yummy ftp
 ZeroNet	zero net
 Zhihu	zhi hu
 β 粒子	bei ta li zi
 β 射線	bei ta she xian
-γ 刀	ga ma dao
-γ 射線	ga ma she xian
+γ 刀	gama
+γ 射線	gama
  MUSIC	apple music
  PAY	apple pay
- tv 4K	apple tv
  WATCH	apple watch
 	apple logo
