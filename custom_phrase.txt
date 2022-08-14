@@ -652,7 +652,6 @@ Local Client	local client
 LockScreen	lock screen
 Lucky Egg	lucky egg
 Lure Module	lure module
-MAC 地址	mac
 Mac App Store	mas
 Mac mini	mac mini
 Mac Pro	mac pro
