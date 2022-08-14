@@ -64,6 +64,8 @@ patch:
 #  "speller/algebra/@before 2": derive/([ei])n$/$1ng/            # 模糊拼音 en => eng, in => ing
 #  "speller/algebra/@before 3": derive/([ei])ng$/$1n/            # 模糊拼音 eng => en, ing => in
 
+  translator/enable_completion: true  # 开启逐鍵提示
+  translator/initial_quality: 1     # 主翻译器的优先级设为1
   translator/preedit_format: {}     # 输入双拼码的时候不转化为全拼码
 
 

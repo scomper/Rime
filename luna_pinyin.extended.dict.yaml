@@ -44,11 +44,10 @@ import_tables:
   - dicts/simp # 最小拼音词典
   - dicts/simp-ext # 原字表中除单字外部分
 
-  - luna_pinyin
-  - luna_pinyin.sgmain
-  - luna_pinyin.poetry
-  - luna_pinyin.cn_en
-  
+  - luna_pinyin #主词库
+  - luna_pinyin.sgmain #搜狗
+  - luna_pinyin.poetry #诗词
+   
   - dicts/animal # 动物
   - dicts/caijing # 财经
   - dicts/food # 饮食
