@@ -69,6 +69,7 @@ patch:
   translator/preedit_format: {}     # 输入双拼码的时候不转化为全拼码
 
 
+
 # 載入朙月拼音擴充詞庫
   "translator/dictionary": luna_pinyin.extended
 
