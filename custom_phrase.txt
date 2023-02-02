@@ -64,6 +64,7 @@ AnyDrop	anydrop
 App Clips	app clips
 AOL	aol
 APFS	apfs
+APFS	ge shi hua
 API	api
 Arduino	arduino
 Arial	arial
@@ -82,7 +83,7 @@ Baskerville	baskerville
 BBC	bbc
 BFR	bfr
 BigCaslon	bigcaslon
-Big Sur	bigsur
+Big Sur	big sur
 Bitcron	bitcron
 BlackBerry	black berry
 BMP	bmp
@@ -444,8 +445,8 @@ Bose soundlink	bose soundlink
 Bradley Hand	bradley hand
 Brush Script	brush script
 BundleHunt	bundle hunt
-Bypass	bypass
-Byword	byword
+Bypass	by pass
+Byword	by word
 C++	cpp
 CallMaster	call master
 CarPlay	car play
@@ -494,6 +495,7 @@ DiskMaker	disk maker
 DisplayPort	display port
 Diwan Kufi	diwan ku fi
 Diwan Thuluth	diwan thuluth
+DJI	da jiang
 DJI	dji
 DNA	dna
 Double Tour	double tour
@@ -513,13 +515,14 @@ Emmet	emmet
 Emoji	emoji
 EuphemiaCAS	euphemia cas
 EV-DO	evdo
-ExFAT	fat
+ExFAT	ge shi hua
 ExtraLight	extra light
 Face ID	face id
 Facebook	face book
 FaceTime	face time
 Fantastical	fantas
 FAT32	fat
+FAT32	ge shi hua
 FIFA	fifa
 FileBrowser	file browser
 FileVault	file vault
@@ -573,7 +576,7 @@ HomePod	home pod
 HTC Vive	htc
 HTML5	html wu
 Hyper Potion	hyper potion
-iA Writer	iaw
+iA Writer	ia writer
 iBooks Author	ibooks
 iBooks	ibooks
 iCloud	icloud
@@ -669,7 +672,9 @@ MagSafe	mag safe
 Mailbox	mail box
 MailTags	mail tags
 MAMP PRO	mamp pro
-MarkDown	markd
+MarkDown	mark down
+MarkEditor	mark editor
+MarsEdit	mars edit
 Mathtype	math type
 MarginNote	margin note
 Metapad	meta pad
@@ -717,7 +722,7 @@ OmmWriter	omm writer
 OmniFocus	omnif
 OmniGraffle	omnig
 OmniOutliner	omnio
-OmniPlan	omnip
+OmniPlan	omni plan
 OneDrive	one drive
 OneNote	one note
 OpenVPN	open vpn

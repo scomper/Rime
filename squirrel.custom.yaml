@@ -4,6 +4,8 @@ patch:
   #style/color_scheme: mojave_dark
   style/color_scheme: system_blue             # 方案命名，不能有空格
   style/color_scheme_dark: mritd_dark
+  style/translucency: true
+  style/alpha: 0.9
   preset_color_schemes:
     system_blue:
       author: "scomper <scomper@gmail.com>"   # 作者信息
