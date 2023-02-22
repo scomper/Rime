@@ -64,7 +64,6 @@ AnyDrop	anydrop
 App Clips	app clips
 AOL	aol
 APFS	apfs
-APFS	ge shi hua
 API	api
 Arduino	arduino
 Arial	arial
@@ -83,7 +82,7 @@ Baskerville	baskerville
 BBC	bbc
 BFR	bfr
 BigCaslon	bigcaslon
-Big Sur	big sur
+Big Sur	bigsur
 Bitcron	bitcron
 BlackBerry	black berry
 BMP	bmp
@@ -387,17 +386,17 @@ After Effects	after effects
 Adobe Illustrator	adobe illustrator
 Adobe Photoshop	adobe photoshop
 Afterlight	after light
-Air Display	air display
-Air Video	air video
-AirDroid	air droid
-AirDrop	air drop
-airFiber	air fiber
-Airmail	air mail
-airMAX	air max
-AirPlay	air play
-AirPods	air pods
-AirPods Pro	air pods
-AirPort	air port
+Air Display	airdisplay
+Air Video	airvideo
+AirDroid	airdroid
+AirDrop	airdrop
+airFiber	airfiber
+Airmail	airmail
+airMAX	airmax
+AirPlay	airplay
+AirPods	airpods
+AirPods Pro	airpods
+AirPort	airport
 Al Nile	alnile
 Al Tarikh	altarikh
 Alphabet	alpha bet
@@ -407,24 +406,15 @@ AmazonBasics	amazon basics
 AMOLED	amoled
 AmpliFi	amplifi
 Andale Mono	andale mono
-Animoji	ani moji
-Ansible	an sible
-App Store	app store
-Apple Configurator	apple configurator
+Animoji	animoji
+Ansible	ansible
+App Store	appstore
 Apple Developer	apple developer
-Apple EarPods	apple earpods
-Apple File System	apfs
-Apple ID	apple id
-Apple Lossless	apple lossless
-Apple Music	apple music
-Apple News	apple news
-Apple Pay	apple pay
-Apple Pencil	apple pencil
-Apple Remote	apple Remote
-Apple Store	apple store
-Apple TV	apple tv
 Apple Watch	apple watch
-AppleCare+	apple care
+Apple ID	appleid
+Apple Music	apple music
+Apple Store	apple store
+	apple logo
 AppShopper	app shopper
 AptBackup	apt backup
 ATM 機	atm ji
@@ -445,8 +435,8 @@ Bose soundlink	bose soundlink
 Bradley Hand	bradley hand
 Brush Script	brush script
 BundleHunt	bundle hunt
-Bypass	by pass
-Byword	by word
+Bypass	bypass
+Byword	byword
 C++	cpp
 CallMaster	call master
 CarPlay	car play
@@ -462,8 +452,8 @@ CloudMagic	cloud magic
 cnBeta	cnbeta
 CNN	cnn
 Cocoa Touch	cocoa touch
-CodeBox	code box
-CodeKit	code kit
+CodeBox	codebox
+CodeKit	codekit
 CodeRunner	code runner
 CoffeeScript	coffee script
 ColorSchemer	color schemer
@@ -483,7 +473,7 @@ DaisyDisk	daisy disk
 Dashboard	dash board
 Datagraph	data graph
 DataMeter	data meter
-Day One	day one
+Day One	dayone
 DDoS	ddos
 Developer Preview	developer preview
 DEVONthink	devon think
@@ -495,18 +485,17 @@ DiskMaker	disk maker
 DisplayPort	display port
 Diwan Kufi	diwan ku fi
 Diwan Thuluth	diwan thuluth
-DJI	da jiang
 DJI	dji
 DNA	dna
 Double Tour	double tour
 Dreammail	dream mail
 Dribbble	dribbble
-Dropbox	drop box
-Dropshare	drop share
-Dropzone	drop zone
+Dropbox	dropbox
+Dropshare	dropshare
+Dropzone	dropzone
 DynamicLyrics	dynamic lyrics
 Dyson	dyson
-Easytime	easy time
+Easytime	easytime
 EdgeRouter	edge router
 EditPad lite	editpad lite
 EditPlus	edit plus
@@ -515,14 +504,13 @@ Emmet	emmet
 Emoji	emoji
 EuphemiaCAS	euphemia cas
 EV-DO	evdo
-ExFAT	ge shi hua
+ExFAT	fat
 ExtraLight	extra light
 Face ID	face id
 Facebook	face book
 FaceTime	face time
 Fantastical	fantas
 FAT32	fat
-FAT32	ge shi hua
 FIFA	fifa
 FileBrowser	file browser
 FileVault	file vault
@@ -564,7 +552,7 @@ Google Music	google music
 Google Play	google Play
 Great Ball	great ball
 GSW	gsw
-Handoff	hang off
+Handoff	hangoff
 HeavyItalic	heavy italic
 Hermès	hermes
 HEVC	hevc
@@ -576,7 +564,7 @@ HomePod	home pod
 HTC Vive	htc
 HTML5	html wu
 Hyper Potion	hyper potion
-iA Writer	ia writer
+iA Writer	iaw
 iBooks Author	ibooks
 iBooks	ibooks
 iCloud	icloud
@@ -605,7 +593,7 @@ iPad	ipad
 iPad Air	ipad
 iPad mini	ipad
 iPad Pro	ipad
-iPadOS	ipad
+iPadOS	ipados
 iPhone	iphone
 iPod	ipod
 iPod classic	ipod
@@ -656,8 +644,8 @@ LockScreen	lock screen
 Lucky Egg	lucky egg
 Lure Module	lure module
 Mac App Store	mas
-Mac mini	mac mini
-Mac Pro	mac pro
+Mac mini	macmini
+Mac Pro	macpro
 Mac Rumors	mac rumors
 MacBook Air	macbook
 MacBook Pro	macbook
@@ -672,9 +660,7 @@ MagSafe	mag safe
 Mailbox	mail box
 MailTags	mail tags
 MAMP PRO	mamp pro
-MarkDown	mark down
-MarkEditor	mark editor
-MarsEdit	mars edit
+MarkDown	markd
 Mathtype	math type
 MarginNote	margin note
 Metapad	meta pad
@@ -722,7 +708,7 @@ OmmWriter	omm writer
 OmniFocus	omnif
 OmniGraffle	omnig
 OmniOutliner	omnio
-OmniPlan	omni plan
+OmniPlan	omnip
 OneDrive	one drive
 OneNote	one note
 OpenVPN	open vpn
@@ -930,7 +916,3 @@ Zhihu	zhi hu
 β 射線	bei ta she xian
 γ 刀	gama
 γ 射線	gama
- MUSIC	apple music
- PAY	apple pay
- WATCH	apple watch
-	apple logo
