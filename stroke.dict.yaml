@@ -15,10 +15,10 @@
 
 ---
 name: stroke
-version: "1.0"
+version: "1.1"
 sort: by_weight              # 按字頻排序
 use_preset_vocabulary: true  # 導入八股文字頻
-max_phrase_length: 0         # 不生成詞彙
+max_phrase_length: 1         # 不生成詞彙
 ...
 
 㐀	shhsh
@@ -27494,6 +27494,9 @@ max_phrase_length: 0         # 不生成詞彙
 龣	pnhszhszhszhszhsszzhznnpn
 龤	pnhszhszhszhszhsshzhzpszhh
 龥	pnhszhszhszhszhsshpszhhhpn
+鿫	phhzpszpnphzpnhpn
+鿬	hpszhszhsh
+鿽	szhnnzpnphshh
 龫	hszhhhspnhhs
 龰	shpn
 龱	szpnh
