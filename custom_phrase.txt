@@ -101,6 +101,7 @@ Copperplate	copperplate
 Corsiva	corsiva
 Cortana	cortana
 CPU	cpu
+ChatGPT	chatgpt
 Curio	curio
 Cydia	cydia
 CentOS	centos
@@ -883,8 +884,8 @@ WhatsApp	whats app
 Whispersync	whisper sync
 Wi-Fi	wifi
 WiFi	wifi
-WiFi Explorer	wifi explorer
-WiFi Scanner	wifi scanner
+🛜	wifi
+🛜	wuxm
 Wikipedia	wiki
 Window Tidy	window tidy
 Windows Live Mail	windows live
@@ -916,3 +917,10 @@ Zhihu	zhi hu
 β 射線	bei ta she xian
 γ 刀	gama
 γ 射線	gama
+ID	id
+AB型血	abxk
+A型血	axk
+B型血	bxk
+O型血	oxk
+K歌	kge
+X光	xgl
