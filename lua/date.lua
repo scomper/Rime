@@ -28,7 +28,6 @@ local function translator(input, seg)
             - comment: 候选项的注释
        --]]
       yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d"), ""))
-      yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m/%d"), ""))
       yield(Candidate("date", seg.start, seg._end, os.date("%Y.%m.%d"), ""))
 
       --[[ 用 `yield` 再产生一个候选项
